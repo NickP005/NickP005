@@ -2,7 +2,7 @@
 
 Welcome to my GitHub realm! I'm NickP05, a living being from Earth. I'm passionate about programming, ancient languages and flying.
 
-- 🌱 Currently exploring the wonders of Rust 🦀
+- 🌱 Currently exploring the wonders of Rust 🦀 and Go (Golang) 🚀
 - 💬 Reach out to me for discussions on Python 🐍, JavaScript 🌐, C/C++ 🔍, PHP 🕸️, Java ☕, or Swift 📱 (+ SwiftUI 🎨).
 - 🚀 Join my Discord server: [Join Now](https://discord.gg/u5vYznP)
 
@@ -33,6 +33,7 @@ Welcome to my GitHub realm! I'm NickP05, a living being from Earth. I'm passiona
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 <!--
 ## 🌟 GitHub Stats
